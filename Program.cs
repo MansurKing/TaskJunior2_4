@@ -6,7 +6,7 @@ namespace TaskJunior2._4
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
+            Random random = new Random();
 
             int firstValue = 0;
             int finishValue = 101;
