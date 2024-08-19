@@ -12,7 +12,7 @@ namespace TaskJunior2._4
             int finishValue = 101;
             int numberDivisibleFirst = 3;
             int numberDivisibleFirstSecond = 5;
-            int number = rand.Next(firstValue, finishValue);
+            int number = random.Next(firstValue, finishValue);
             int sum = 0;
 
             Console.WriteLine(number);
